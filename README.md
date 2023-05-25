@@ -7,7 +7,7 @@ Confrences
 [NeurIPS 2021](https://github.com/azalahmadkhan/Federated-Learning-Papers/blob/main/README.md#neurips-2021)
 
 
-If you come across any missing papers or identify any errors within the repository, please feel free to open an issue to bring it to our attention. We appreciate your contribution in ensuring the accuracy and completeness of the collection.
+[Note: If you come across any missing papers or identify any errors within the repository, please feel free to open an issue to bring it to our attention. We appreciate your contribution in ensuring the accuracy and completeness of the collection.]
 
 #### NeurIPS 2022
 VF-PS: How to Select Important Participants in
