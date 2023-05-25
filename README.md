@@ -31,3 +31,5 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 1. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning - [[PDF](https://proceedings.mlr.press/v162/liu22k.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/42a3964579017f3cb42b26605b9ae8ef_uDyPC7E.png?t=1657530263.712678)]
 
 2. Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization - [[PDF](https://proceedings.mlr.press/v162/yoon22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/1c383cd30b7c298ab50293adfecb7b18.png?t=1657528350.6251407)]
+
+3. Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering - [[PDF](https://proceedings.mlr.press/v162/lubana22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/80a8155eb153025ea1d513d0b2c4b675.png?t=1657917947.7470691)]
