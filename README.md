@@ -1,3 +1,4 @@
+[Under construction]
 This repository hosts a collection of research papers on federated learning that have been accepted at NIPS, ICML, and ICLR.
 
 Confrences
@@ -5,6 +6,8 @@ Confrences
 [NeurIPS 2022](https://github.com/azalahmadkhan/Federated-Learning-Papers/blob/main/README.md#neurips-2022)
 
 [NeurIPS 2021](https://github.com/azalahmadkhan/Federated-Learning-Papers/blob/main/README.md#neurips-2021)
+
+[ICML 2022](https://github.com/azalahmadkhan/Federated-Learning-Papers/blob/main/README.md#icml-2022)
 
 
 [Note: If you come across any missing papers or identify any errors within the repository, please feel free to open an issue to bring it to our attention. We appreciate your contribution in ensuring the accuracy and completeness of the collection.]
@@ -23,3 +26,8 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 
 #### NeurIPS 2021
 1. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
+
+#### ICML 2022
+1. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning - [[PDF](https://proceedings.mlr.press/v162/liu22k.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/42a3964579017f3cb42b26605b9ae8ef_uDyPC7E.png?t=1657530263.712678)]
+
+2. Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization - [[PDF](https://proceedings.mlr.press/v162/yoon22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/1c383cd30b7c298ab50293adfecb7b18.png?t=1657528350.6251407)]
