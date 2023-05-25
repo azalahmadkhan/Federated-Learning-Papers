@@ -22,4 +22,4 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 5. CalFAT: Calibrated Federated Adversarial Training with Label Skewness - [[PDF](https://openreview.net/pdf?id=8N1NDRGQSQ)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/4f9c76cf97f84048c5990dd4ef842ea2.png?t=1667183565.7494476)]
 
 #### NeurIPS 2021
-6. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
+1. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
