@@ -1,4 +1,13 @@
-## NIPS 2022
+This repository hosts a collection of research papers on federated learning that have been accepted at NIPS, ICML, and ICLR.
+
+Confrences
+
+[NeurIPS 2022](https://github.com/azalahmadkhan/Federated-Learning-Papers#nips-2022)
+
+
+If you come across any missing papers or identify any errors within the repository, please feel free to open an issue to bring it to our attention. We appreciate your contribution in ensuring the accuracy and completeness of the collection.
+
+#### NeurIPS 2022
 Participant Selection in Vertical Federated Learning - [[PDF](https://neurips.cc/Conferences/2022/Schedule?showEvent=53772)], [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/12e35d9186dd72fe62fd039385890b9c.png?t=1666517605.353891)]
 
 Byzantine-tolerant federated Gaussian process regression - [[PDF](https://openreview.net/pdf?id=Nx4gNemvNvx)],[[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/53831.png?t=1668046115.0023313)], [[Slides](https://neurips.cc/media/neurips-2022/Slides/53831.pdf)]
