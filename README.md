@@ -13,7 +13,7 @@ Confrences
 
 [Note: If you come across any missing papers or identify any errors within the repository, please feel free to open an issue to bring it to our attention. We appreciate your contribution in ensuring the accuracy and completeness of the collection.]
 
-#### NeurIPS 2022
+### NeurIPS 2022
 1. VF-PS: How to Select Important Participants in
 Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openreview.net/pdf?id=vNrSXIFJ9wz)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/12e35d9186dd72fe62fd039385890b9c.png?t=1666517605.353891)]
 
@@ -95,7 +95,7 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 
 41. Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning - [[PDF](https://openreview.net/pdf?id=edkno3SvKo)]
 
-#### NeurIPS 2021
+### NeurIPS 2021
 1. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
 
 2. QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning - [[PDF](https://openreview.net/pdf?id=P_egPJZKro)]
@@ -158,7 +158,7 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 
 31. Federated Linear Contextual Bandits - [[PDF](https://openreview.net/pdf?id=Rt5mjXAqHrY)]
 
-#### ICML 2022
+### ICML 2022
 1. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning - [[PDF](https://proceedings.mlr.press/v162/liu22k.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/42a3964579017f3cb42b26605b9ae8ef_uDyPC7E.png?t=1657530263.712678)]
 
 2. Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization - [[PDF](https://proceedings.mlr.press/v162/yoon22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/1c383cd30b7c298ab50293adfecb7b18.png?t=1657528350.6251407)]
