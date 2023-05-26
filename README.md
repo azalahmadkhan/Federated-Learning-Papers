@@ -164,3 +164,17 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 2. Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization - [[PDF](https://proceedings.mlr.press/v162/yoon22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/1c383cd30b7c298ab50293adfecb7b18.png?t=1657528350.6251407)]
 
 3. Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering - [[PDF](https://proceedings.mlr.press/v162/lubana22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/80a8155eb153025ea1d513d0b2c4b675.png?t=1657917947.7470691)]
+
+4. FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning - [[PDF](https://proceedings.mlr.press/v162/elgabli22a.html)]
+
+5. FedNL: Making Newton-Type Methods Applicable to Federated Learning - [[PDF](https://proceedings.mlr.press/v162/safaryan22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/7385db9a3f11415bc0e9e2625fae3734.png?t=1657204966.4589956)]
+
+6. Federated Minimax Optimization: Improved Convergence Analyses and Algorithms - [[PDF](https://proceedings.mlr.press/v162/sharma22c.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/596f713f9a7376fe90a62abaaedecc2d.png?t=1658001884.910279)][[Slides](https://icml.cc/media/icml-2022/Slides/17435.pdf)]
+
+7. FedNest: Federated Bilevel, Minimax, and Compositional Optimization - [[PDF](https://proceedings.mlr.press/v162/tarzanagh22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/eb21cc0143d96dbc8e3a58f1a81e4dd2_0JDo4d4.png?t=1658242368.1592815)]
+
+8. Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification - [[PDF](https://proceedings.mlr.press/v162/wen22a.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/99c83c904d0d64fbef50d919a5c66a80.png?t=1657939129.1920433)]
+
+9. DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training - [[PDF](https://proceedings.mlr.press/v162/dai22b.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/99064ba6631e279d4a74622df99657d6.png?t=1657608326.4175107)]
+
+10. Federated Learning with Positive and Unlabeled Data - [[PDF](https://proceedings.mlr.press/v162/lin22b.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/16e6a3326dd7d868cbc926602a61e4d0.png?t=1657248979.552321)]
