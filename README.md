@@ -98,6 +98,66 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 #### NeurIPS 2021
 1. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
 
+2. QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning - [[PDF](https://openreview.net/pdf?id=P_egPJZKro)]
+
+3. DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning - [[PDF](https://openreview.net/pdf?id=OAy508Q3T8)]
+
+4. Parameterized Knowledge Transfer for Personalized Federated Learning - [[PDF](https://openreview.net/pdf?id=_89s8ViNwwj)]
+
+5. Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis - [[PDF](https://openreview.net/pdf?id=Ggikq6Tdxch)][[Slides](https://neurips.cc/media/neurips-2021/Slides/27669.pdf)]
+
+6. Fast Federated Learning in the Presence of Arbitrary Device Unavailability - [[PDF](https://openreview.net/pdf?id=1_gaHBaRYt)]
+
+7. Sageflow: Robust Federated Learning against Both Stragglers and Adversaries - [[PDF](https://openreview.net/pdf?id=rA9HFxFT7th)]
+
+8. Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee - [[PDF](https://openreview.net/pdf?id=ospGnpuf6L)][[Slides](https://neurips.cc/media/neurips-2021/Slides/28144.pdf)]
+
+9. FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective - [[PDF](https://openreview.net/pdf?id=96uH8HeGb9G)]
+
+10. Few-Round Learning for Federated Learning - [[PDF](https://openreview.net/pdf?id=ZgUZmeV1Mtu)]
+
+11. Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning - [[PDF](https://openreview.net/pdf?id=WwqOoNnA8f)]
+
+12. PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization - [[PDF](https://openreview.net/pdf?id=lgDP84byd5)]
+
+13. Personalized Federated Learning With Gaussian Processes - [[PDF](https://openreview.net/pdf?id=byCQ9Uu4PD)]
+
+14. No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data - [[PDF](https://openreview.net/pdf?id=AFiH_CNnVhS)]
+
+15. Federated-EM with heterogeneity mitigation and variance reduction - [[PDF](https://openreview.net/pdf?id=KSLNajziJeA)]
+
+16. Optimality and Stability in Federated Learning: A Game-theoretic Approach - [[PDF](https://openreview.net/pdf?id=GF20UbpcqKT)]
+
+17. Federated Multi-Task Learning under a Mixture of Distributions - [[PDF](https://openreview.net/pdf?id=YCqx6zhEzRp)][[Slides](https://neurips.cc/media/neurips-2021/Slides/26409.pdf)]
+
+18. Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients - [[PDF](https://openreview.net/pdf?id=h7FqQ6hCK18)]
+
+19. FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout - [[PDF](https://openreview.net/pdf?id=4fLr7H5D_eT)]
+
+20. The Skellam Mechanism for Differentially Private Federated Learning - [[PDF](https://openreview.net/pdf?id=dvyUaK4neD0)]
+
+21. Federated Reconstruction: Partially Local Federated Learning - [[PDF](https://openreview.net/pdf?id=Hk0olMdZOIU)]
+
+22. Federated Graph Classification over Non-IID Graphs - [[PDF](https://openreview.net/pdf?id=yJqcM36Qvnu)]
+
+23. Breaking the centralized barrier for cross-device federated learning - [[PDF](https://openreview.net/pdf?id=FMPuzXV1fR)][[Slides](https://neurips.cc/media/neurips-2021/Slides/27568.pdf)]
+
+24. Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing - [[PDF](https://openreview.net/pdf?id=p99rWde9fVJ)]
+
+25. CAFE: Catastrophic Data Leakage in Vertical Federated Learning - [[PDF](https://openreview.net/pdf?id=b4YiFnQH3gN)]
+
+26. Evaluating Gradient Inversion Attacks and Defenses in Federated Learning - [[PDF](https://openreview.net/pdf?id=0CDKgyYaxC8)]
+
+27. Differentially Private Federated Bayesian Optimization with Distributed Exploration - [[PDF](https://openreview.net/pdf?id=OdsuC3H1WQ3)][[Slides](https://neurips.cc/media/neurips-2021/Slides/26102.pdf)]
+
+28. FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization - [[PDF](https://openreview.net/pdf?id=SkDYNXUM4xZ)]
+
+29. STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning - [[PDF](https://openreview.net/pdf?id=J28lNO4p3ki)]
+
+30. Subgraph Federated Learning with Missing Neighbor Generation - [[PDF](https://openreview.net/pdf?id=SJHRf5nW93)]
+
+31. Federated Linear Contextual Bandits - [[PDF](https://openreview.net/pdf?id=Rt5mjXAqHrY)]
+
 #### ICML 2022
 1. Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning - [[PDF](https://proceedings.mlr.press/v162/liu22k.html)][[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/42a3964579017f3cb42b26605b9ae8ef_uDyPC7E.png?t=1657530263.712678)]
 
