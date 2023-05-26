@@ -55,7 +55,45 @@ Vertical Federated Learning, Efficiently and Securely? - [[PDF](https://openrevi
 
 20. DENSE: Data-Free One-Shot Federated Learning - [[PDF](https://openreview.net/pdf?id=QFQoxCFYEkA)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/798cebccb32617ad94123450fd137104.png?t=1667531567.5085855)][[Slides](https://neurips.cc/media/neurips-2022/Slides/55081.pdf)]
 
-21. DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing - [[PDF](https://openreview.net/pdf?id=hPkGV4BPsmv)][[Poster]()]
+21. DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing - [[PDF](https://openreview.net/pdf?id=hPkGV4BPsmv)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54107.png?t=1668346642.8508189)]
+
+22. Coresets for Vertical Federated Learning: Regularized Linear Regression and K-Means Clustering - [[PDF](https://openreview.net/pdf?id=N0tKCpMhA2)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54664.png?t=1669396273.7076252)]
+
+23. FedSR: A Simple and Effective Domain Generalization Method for Federated Learning - [[PDF](https://openreview.net/pdf?id=mrt90D00aQX)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54044.png?t=1669686078.9244623)][[Slides](https://neurips.cc/media/neurips-2022/Slides/54044.pdf)]
+
+24. Federated Learning from Pre-Trained Models: A Contrastive Learning Approach - [[PDF](https://openreview.net/pdf?id=mhQLcMjWw75)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/62d2b7ba91f34c0ac08aa11c359a8d2c.png?t=1667203996.2660973)]
+
+25. Personalized Online Federated Learning with Multiple Kernels - [[PDF](https://openreview.net/pdf?id=wUctlvhsNWg)]
+
+26. A Communication-efficient Algorithm with Linear Convergence for Federated Minimax Learning - [[PDF](https://openreview.net/pdf?id=TATzsweWfof)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/52831.png?t=1669488024.720074)]
+
+27. Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching - [[PDF](https://openreview.net/pdf?id=Ql75oqz1npy)]
+
+28. Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework - [[PDF](https://openreview.net/pdf?id=4OHRr7gmhd4)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54527.png?t=1668362006.5271556)]
+
+29. FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning - [[PDF](https://openreview.net/pdf?id=5vVSA_cdRqe)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/d7aab42e6b85c49c0f1d3a115e939c74.png?t=1666273310.6975615)]
+
+30. A Unified Analysis of Federated Learning with Arbitrary Client Participation - [[PDF](https://openreview.net/pdf?id=qSs7C7c4G8D)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/51f4efbfb3e18f4ea053c4d3d282c4e2.png?t=1667266693.0622804)][[Slides](https://neurips.cc/media/neurips-2022/Slides/53667.pdf)]
+
+31. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects - [[PDF](https://openreview.net/pdf?id=fJt2KFnRqZ)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/53211.png?t=1669579584.639597)]
+
+32. A Simple and Provably Efficient Algorithm for Asynchronous Federated Contextual Linear Bandits - [[PDF](https://openreview.net/pdf?id=Fx7oXUVEPW)]
+
+33. FLAIR: Federated Learning Annotated Image Repository - [[PDF](https://openreview.net/pdf?id=1kIZiRelqFt)]
+
+34. FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings - [[PDF](https://openreview.net/pdf?id=GgM5DiAb6A2)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/55738.png?t=1668502064.9030547)]
+
+35. FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction - [[PDF](https://openreview.net/pdf?id=OtxyysUdBE)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54671.png?t=1668707630.2906868)]
+
+36. On Privacy and Personalization in Cross-Silo Federated Learning - [[PDF](https://openreview.net/pdf?id=Oq2bdIQQOIZ)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54701.png?t=1669321987.3010614)]
+
+37. Fairness in Federated Learning via Core-Stability - [[PDF](https://openreview.net/pdf?id=lKULHf7oFDo)]
+
+39. Self-Aware Personalized Federated Learning - [[PDF](https://openreview.net/pdf?id=EqJ5_hZSqgy)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/bafd4215ef527cf0e0b2f843ce2ee763.png?t=1666467027.2862206)]
+
+40. Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning - [[PDF](https://openreview.net/pdf?id=4_oCZgBIVI)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/53346.png?t=1669731786.4994175)]
+
+41. Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning - [[PDF](https://openreview.net/pdf?id=edkno3SvKo)]
 
 #### NeurIPS 2021
 1. Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning - [[PDF](https://openreview.net/pdf?id=ACFHNxVNvfk)]
